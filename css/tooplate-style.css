@@ -15,7 +15,7 @@ body {
     min-height: 100vh;
     height: 100%;
     position: relative;
-    background-color: black;
+    background: #222222;
 }
 
 #preload-01 { background: url(../img/constructive_bg_01.jpg) no-repeat -9999px -9999px; }
