@@ -9,13 +9,15 @@ http://www.tooplate.com/view/2102-constructive
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
-	font-weight: 400;
-    color: black;
+	font-weight: 700;
+    background-color: black;
+    color: white;
+    opacity: 0.3;
 	overflow-x: hidden;
     min-height: 100vh;
     height: 100%;
     position: relative;
-    background: #222222;
+    !<--background-color: black;-->
 }
 
 #preload-01 { background: url(../img/constructive_bg_01.jpg) no-repeat -9999px -9999px; }
