@@ -174,7 +174,7 @@ p:last-child { margin-bottom: 0; }
 .tm-main-nav a:focus,
 .tm-main-nav a.active {
     background-image: url(../img/nav-item-highlight.png);
-    color: #242bb5;
+    color: #33ccff;
     text-decoration: none;    
 }
 
