@@ -10,14 +10,16 @@ body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: 700;
-    background-color: black;
     color: white;
-    opacity: 0.3;
 	overflow-x: hidden;
     min-height: 100vh;
     height: 100%;
     position: relative;
-    !<--background-color: black;-->
+    background-color: black;
+}
+mark { 
+	color: white;
+	background-color: black;
 }
 
 #preload-01 { background: url(../img/constructive_bg_01.jpg) no-repeat -9999px -9999px; }
