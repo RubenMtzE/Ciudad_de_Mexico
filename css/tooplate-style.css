@@ -20,7 +20,7 @@ body {
 mark { 
 	color: white;
 	background-color: black;
-	opacity: 0.3;
+	opacity: 0.8;
 }
 
 #preload-01 { background: url(../img/constructive_bg_01.jpg) no-repeat -9999px -9999px; }
