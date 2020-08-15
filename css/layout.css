@@ -120,7 +120,7 @@ header .link1:hover{text-decoration:underline;}
 footer .footerlink{position:relative; margin:0 auto; width:850px; z-index:2;}
 
 .footerlink p{margin:0; padding:0; line-height:normal; white-space:nowrap; text-indent:inherit; color:#dfd2e7;}
-.footerlink a{color:#dfd2e7; font-weight:normal; margin:0; padding:0; border:none; text-decoration:underline; background-color:transparent;}
+
 .footerlink a:hover{color:#dfd2e7; background-color:transparent; text-decoration:none;}
 .footerlink .lf{float:left;}
 .footerlink .rf{float:right;}
