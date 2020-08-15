@@ -70,12 +70,12 @@ header{width:100%; overflow:hidden; padding-bottom:22px;}
 
 #menu .bg_none{background:none; padding:0; margin:0;}
 #menu li a{display:block; font-size:16px; font-weight:400; color:#fff; line-height:31px; padding:0 9px; text-decoration:none; position:relative;}
-#menu li a:hover, #menu #menu_active a{background:url("../images/menu_bg.gif") top repeat-x #b3b3b3; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; box-shadow:3px 3px 5px #402f55; -moz-box-shadow:3px 3px 5px #402f55; -webkit-box-shadow:3px 3px 5px #402f55; color:#673f85;}
+#menu li a:hover, #menu #menu_active a{background:url("../images/menu_bg.gif") top repeat-x #f7f7f7; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; box-shadow:3px 3px 5px #402f55; -moz-box-shadow:3px 3px 5px #402f55; -webkit-box-shadow:3px 3px 5px #402f55; color:#673f85;}
 
 .text1{font-size:30px; font-weight:300; color:#fff; line-height:39px; padding:24px 0 15px 0;}
 .text1 span{display:block; margin-top:-10px;}
 
-header p{color:#9688a7; padding-bottom:17px;}
+header p{color:#33ccff; padding-bottom:17px;}
 header .link1{text-decoration:none;}
 header .link1:hover{text-decoration:underline;}
 
@@ -104,12 +104,12 @@ header .link1:hover{text-decoration:underline;}
 
 .arrow{display:inline-block; background:url("../images/marker_1.gif") 0 7px no-repeat; height:19px; width:6px; margin-left:6px;}
 
-.color1{color:#8e8e8e;}
+.color1{color:#f7f7f7;}
 
 #ContactForm{margin-top:-15px; width:860px;}
 #ContactForm p{line-height:24px; padding-bottom:6px; width:104px; float:left;}
 #ContactForm a{margin-left:24px; margin-top:8px;}
-#ContactForm .input{float:left; width:307px; height:16px; border:1px solid #d5d5d5; background:#fff; padding:3px 6px; margin-bottom:6px; color:#4e4e4e; font:13px Arial,Helvetica,sans-serif;}
+#ContactForm .input{float:left; width:307px; height:16px; border:1px solid #f7f7f7; background:#fff; padding:3px 6px; margin-bottom:6px; color:#4e4e4e; font:13px Arial,Helvetica,sans-serif;}
 #ContactForm textarea{overflow:auto; float:left; width:742px; height:350px; border:1px solid #d5d5d5; background:#fff; padding:3px 6px; margin-bottom:0; color:#4e4e4e; font:13px Arial,Helvetica,sans-serif;}
 
 #footer_menu ul{width:100%; overflow:hidden; text-align:center;}
